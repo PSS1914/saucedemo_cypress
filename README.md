@@ -51,6 +51,8 @@ npm install cypress --save-dev
 
 4. **Rode os testes**
 
-npx cypress run                                   (for headless mode)
-npx open cypress                                  (open cypress UI and run specs in browser)
+ ```bash
+   npx cypress run                                   (for headless mode)
+---
+   npx open cypress                                  (open cypress UI and run specs in browser)
 ----
