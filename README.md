@@ -51,8 +51,9 @@ npm install cypress --save-dev
 
 4. **Rode os testes**
 
- ```bash
-   npx cypress run                                   (for headless mode)
----
-   npx open cypress                                  (open cypress UI and run specs in browser)
-----
+   - Para rodar os testes no modo headless:
+   npx cypress run
+
+   - Para abrir o Cypress UI e rodar os testes no navegador:
+   npx cypress open
+
