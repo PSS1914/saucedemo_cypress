@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛒 Desafio Auvo - Automação de Testes com Cypress
 
 Este projeto é uma prova de conceito (POC) de automação de testes web para validar fluxos de cadastro e pesquisa de produtos no site de e-commerce fictício [Sauce Demo](https://www.saucedemo.com/).
@@ -56,3 +57,6 @@ npx open cypress                                  (open cypress UI and run specs
 ---
 
 
+=======
+# saucedemo_cypress
+>>>>>>> cb86c67aa5937156d80209be38abee416cee4789
